@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="addIcDes">add icon</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_title">Enter the title</string>
+    <string name="enter_description">Enter the description</string>
+    <string name="all_notes">Notes</string>
+    <string name="content">Content</string>
+    <string name="title">Title</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
